@@ -1,0 +1,70 @@
+{
+  "_comment": "Hindi → English | Month 1 Week 1 | Lesson — Basics & Greetings",
+  "id": 1,
+  "type": "lesson",
+  "title": "अंग्रेजी भाषा का परिचय और बुनियादी अभिवादन",
+  "description": "अपनी अंग्रेजी सीखने की यात्रा शुरू करें। अक्षरों (Alphabets) और रोज़मर्रा के अभिवादन के बारे में जानें।",
+  "duration": "25 min",
+  "xp": 30,
+  "week": 1,
+  "month": 1,
+  "langPair": "hi-en",
+  "tags": ["alphabet", "greetings", "beginner"],
+  "blocks": [
+    {
+      "id": "b1",
+      "type": "text",
+      "title": "अंग्रेजी भाषा में आपका स्वागत है! Welcome!",
+      "body": "अंग्रेजी दुनिया में सबसे ज्यादा बोली जाने वाली अंतरराष्ट्रीय भाषा है। इसमें 26 अक्षर होते हैं। हम बुनियादी अभिवादन से शुरुआत करेंगे!"
+    },
+    {
+      "id": "b2",
+      "type": "keypoints",
+      "title": "इस सप्ताह आप क्या सीखेंगे",
+      "points": [
+        "अंग्रेजी वर्णमाला के 26 अक्षर (A-Z)",
+        "बुनियादी अभिवादन: Hello, Thank you, Sorry",
+        "अंग्रेजी वाक्य की बनावट: SVO (Subject-Verb-Object)",
+        "अपना परिचय देना: 'My name is ___'"
+      ]
+    },
+    {
+      "id": "b4",
+      "type": "comparison_table",
+      "title": "बुनियादी अभिवादन — एक नज़र में",
+      "headers": ["हिंदी अर्थ", "अंग्रेजी", "उच्चारण"],
+      "rows": [
+        ["नमस्ते (सामान्य)", "Hello", "हेलो"],
+        ["शुभ प्रभात", "Good morning", "गुड मॉर्निंग"],
+        ["शुभ रात्रि", "Good night", "गुड नाईट"],
+        ["अलविदा", "Goodbye", "गुडबाय"],
+        ["धन्यवाद", "Thank you", "थैंक यू"],
+        ["माफ़ कीजिए", "Sorry", "सॉरी"],
+        ["हाँ", "Yes", "येस"],
+        ["नहीं", "No", "नो"]
+      ]
+    },
+    {
+      "id": "b5",
+      "type": "dialogue",
+      "title": "पहली अंग्रेजी बातचीत",
+      "speakers": ["आप", "विदेशी मित्र"],
+      "lines": [
+        { "speaker": 0, "text": "Hello!", "translation": "नमस्ते!" },
+        { "speaker": 1, "text": "Hi! What is your name?", "translation": "नमस्ते! आपका नाम क्या है?" },
+        { "speaker": 0, "text": "My name is ___.", "translation": "मेरा नाम ___ है।" },
+        { "speaker": 1, "text": "Nice to meet you.", "translation": "आपसे मिलकर खुशी हुई।" }
+      ]
+    },
+    {
+      "id": "b6",
+      "type": "grammar_rule",
+      "title": "अंग्रेजी वाक्य रचना: SVO क्रम",
+      "pattern": "Subject + Verb + Object",
+      "examples": [
+        { "native": "मैं सेब खाता हूँ।", "target": "I eat an apple.", "translation": "Subject: I, Verb: eat, Object: apple" }
+      ],
+      "note": "हिंदी में क्रिया (Verb) अंत में आती है, लेकिन अंग्रेजी में क्रिया कर्ता (Subject) के तुरंत बाद आती है।"
+    }
+  ]
+}

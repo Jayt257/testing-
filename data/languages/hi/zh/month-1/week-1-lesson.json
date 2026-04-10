@@ -1,0 +1,56 @@
+{
+  "_comment": "Hindi → Mandarin | Month 1 Week 1 | Lesson — Basics & Greetings",
+  "id": 1,
+  "type": "lesson",
+  "title": "चीनी (मंदारिन) का परिचय और बुनियादी अभिवादन",
+  "description": "चीनी भाषा (Mandarin) सीखें और बुनियादी अभिवादन के साथ अपनी यात्रा शुरू करें।",
+  "duration": "25 min",
+  "xp": 30,
+  "week": 1,
+  "month": 1,
+  "langPair": "hi-zh",
+  "tags": ["greetings", "beginner"],
+  "blocks": [
+    {
+      "id": "b1",
+      "type": "text",
+      "title": "चीनी भाषा में आपका स्वागत है! 欢迎",
+      "body": "मंदारिन (चीनी) में अक्षर (Characters) और सुर (Tones) होते हैं। आइए सरल शब्दों और पिनयिन (Pinyin) से शुरुआत करें।"
+    },
+    {
+      "id": "b2",
+      "type": "keypoints",
+      "title": "इस सप्ताह आप क्या सीखेंगे",
+      "points": [
+        "बुनियादी अभिवादन: Ni Hao, Xie Xie",
+        "चीनी में अपना परिचय देना"
+      ]
+    },
+    {
+      "id": "b4",
+      "type": "comparison_table",
+      "title": "बुनियादी अभिवादन — एक नज़र में",
+      "headers": ["हिंदी अर्थ", "चीनी (पिनयिन)", "उच्चारण"],
+      "rows": [
+        ["नमस्ते", "你好 (Nǐ hǎo)", "नी हाओ"],
+        ["अलविदा", "再见 (Zàijiàn)", "ज़ाई जिएन"],
+        ["धन्यवाद", "谢谢 (Xièxiè)", "शिये शिये"],
+        ["माफ़ कीजिए", "对不起 (Duìbùqǐ)", "दुई बु छी"],
+        ["हाँ", "是 (Shì)", "शिर"],
+        ["नहीं", "不是 (Bú shì)", "बू शिर"]
+      ]
+    },
+    {
+      "id": "b5",
+      "type": "dialogue",
+      "title": "पहली चीनी बातचीत",
+      "speakers": ["आप", "चीनी मित्र"],
+      "lines": [
+        { "speaker": 0, "text": "你好！", "romanization": "Nǐ hǎo!", "translation": "नमस्ते!" },
+        { "speaker": 1, "text": "你叫什么名字？", "romanization": "Nǐ jiào shénme míngzì?", "translation": "तुम्हारा नाम क्या है?" },
+        { "speaker": 0, "text": "我叫 ___.", "romanization": "Wǒ jiào ___.", "translation": "मेरा नाम ___ है।" },
+        { "speaker": 1, "text": "很高兴认识你。", "romanization": "Hěn gāoxìng rènshí nǐ.", "translation": "आपसे मिलकर खुशी हुई।" }
+      ]
+    }
+  ]
+}

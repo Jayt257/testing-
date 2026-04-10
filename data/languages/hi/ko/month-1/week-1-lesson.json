@@ -1,0 +1,56 @@
+{
+  "_comment": "Hindi → Korean | Month 1 Week 1 | Lesson — Basics & Greetings",
+  "id": 1,
+  "type": "lesson",
+  "title": "कोरियाई का परिचय और बुनियादी अभिवादन",
+  "description": "कोरियाई भाषा सीखें और बुनियादी अभिवादन के साथ अपनी यात्रा शुरू करें।",
+  "duration": "25 min",
+  "xp": 30,
+  "week": 1,
+  "month": 1,
+  "langPair": "hi-ko",
+  "tags": ["greetings", "beginner"],
+  "blocks": [
+    {
+      "id": "b1",
+      "type": "text",
+      "title": "कोरियाई भाषा में आपका स्वागत है! 환영합니다!",
+      "body": "कोरियाई भाषा (한국어) की लिपि को हनगुल (Hangul) कहा जाता है। यह सीखना बहुत ही तार्किक और आसान है। शुरुआत बुनियादी अभिवादन से करते हैं!"
+    },
+    {
+      "id": "b2",
+      "type": "keypoints",
+      "title": "इस सप्ताह आप क्या सीखेंगे",
+      "points": [
+        "बुनियादी अभिवादन: Annyeonghaseyo, Gamsahamnida",
+        "कोरियाई में अपना परिचय देना"
+      ]
+    },
+    {
+      "id": "b4",
+      "type": "comparison_table",
+      "title": "बुनियादी अभिवादन — एक नज़र में",
+      "headers": ["हिंदी अर्थ", "कोरियाई (रोमांजी)", "उच्चारण"],
+      "rows": [
+        ["नमस्ते", "안녕하세요 (Annyeonghaseyo)", "अन्नयोंग-हासेयो"],
+        ["अलविदा", "안녕히 가세요 (Annyeonghi gaseyo)", "अन्नयोंग-ही गासेयो"],
+        ["धन्यवाद", "감사합니다 (Gamsahamnida)", "खामसा-हाम्निदा"],
+        ["माफ़ कीजिए", "죄송합니다 (Joesonghamnida)", "छ्वेसोंग-हाम्निदा"],
+        ["हाँ", "네 (Ne)", "ने"],
+        ["नहीं", "아니요 (Aniyo)", "आनियो"]
+      ]
+    },
+    {
+      "id": "b5",
+      "type": "dialogue",
+      "title": "पहली कोरियाई बातचीत",
+      "speakers": ["आप", "कोरियाई मित्र"],
+      "lines": [
+        { "speaker": 0, "text": "안녕하세요!", "romanization": "Annyeonghaseyo!", "translation": "नमस्ते!" },
+        { "speaker": 1, "text": "이름이 뭐예요?", "romanization": "Ireumi mwoyeyo?", "translation": "तुम्हारा नाम क्या है?" },
+        { "speaker": 0, "text": "제 이름은 ___ 입니다.", "romanization": "Je ireumeun ___ imnida.", "translation": "मेरा नाम ___ है।" },
+        { "speaker": 1, "text": "만나서 반갑습니다.", "romanization": "Mannaseo bangapseumnida.", "translation": "आपसे मिलकर खुशी हुई।" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "_comment": "Hindi → German | Month 1 Week 1 | Lesson — Basics & Greetings",
+  "id": 1,
+  "type": "lesson",
+  "title": "जर्मन का परिचय और बुनियादी अभिवादन",
+  "description": "जर्मन (German) भाषा सीखें और बुनियादी अभिवादन के साथ अपनी यात्रा शुरू करें।",
+  "duration": "25 min",
+  "xp": 30,
+  "week": 1,
+  "month": 1,
+  "langPair": "hi-de",
+  "tags": ["greetings", "beginner"],
+  "blocks": [
+    {
+      "id": "b1",
+      "type": "text",
+      "title": "जर्मन में आपका स्वागत है! Willkommen!",
+      "body": "जर्मन (Deutsch) यूरोप में सबसे अधिक बोली जाने वाली भाषाओं में से एक है। चलिए कुछ सामान्य शब्दों से शुरू करते हैं।"
+    },
+    {
+      "id": "b2",
+      "type": "keypoints",
+      "title": "इस सप्ताह आप क्या सीखेंगे",
+      "points": [
+        "बुनियादी अभिवादन: Hallo, Danke, Bitte",
+        "जर्मन में अपना परिचय देना"
+      ]
+    },
+    {
+      "id": "b4",
+      "type": "comparison_table",
+      "title": "बुनियादी अभिवादन — एक नज़र में",
+      "headers": ["हिंदी अर्थ", "जर्मन", "उच्चारण"],
+      "rows": [
+        ["नमस्ते", "Hallo", "हालो"],
+        ["शुभ प्रभात", "Guten Morgen", "गूटेन मोर्गन"],
+        ["अलविदा", "Auf Wiedersehen", "आउफ वीदरजेन"],
+        ["धन्यवाद", "Danke", "दान्के"],
+        ["कृपया / माफ़ कीजिए", "Entschuldigung", "एन्टशुल्डिगुंग"],
+        ["हाँ", "Ja", "या"],
+        ["नहीं", "Nein", "नाइन"]
+      ]
+    },
+    {
+      "id": "b5",
+      "type": "dialogue",
+      "title": "पहली जर्मन बातचीत",
+      "speakers": ["आप", "जर्मन मित्र"],
+      "lines": [
+        { "speaker": 0, "text": "Hallo!", "translation": "नमस्ते!" },
+        { "speaker": 1, "text": "Wie heißt du?", "translation": "तुम्हारा नाम क्या है?" },
+        { "speaker": 0, "text": "Ich heiße ___.", "translation": "मेरा नाम ___ है।" },
+        { "speaker": 1, "text": "Freut mich.", "translation": "आपसे मिलकर खुशी हुई।" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "_comment": "Hindi → French | Month 1 Week 1 | Lesson — Basics & Greetings",
+  "id": 1,
+  "type": "lesson",
+  "title": "फ्रेंच का परिचय और बुनियादी अभिवादन",
+  "description": "फ्रेंच (French) भाषा सीखें और बुनियादी अभिवादन के साथ अपनी यात्रा शुरू करें।",
+  "duration": "25 min",
+  "xp": 30,
+  "week": 1,
+  "month": 1,
+  "langPair": "hi-fr",
+  "tags": ["greetings", "beginner"],
+  "blocks": [
+    {
+      "id": "b1",
+      "type": "text",
+      "title": "फ्रेंच में आपका स्वागत है! Bienvenue!",
+      "body": "फ्रेंच (Français) अपनी सुंदरता और सुरम्य उच्चारण के लिए प्रसिद्ध है। चलिए बुनियादी शब्दों से शुरुआत करें।"
+    },
+    {
+      "id": "b2",
+      "type": "keypoints",
+      "title": "इस सप्ताह आप क्या सीखेंगे",
+      "points": [
+        "बुनियादी अभिवादन: Bonjour, Merci, Pardon",
+        "फ्रेंच में अपना नाम बताना"
+      ]
+    },
+    {
+      "id": "b4",
+      "type": "comparison_table",
+      "title": "बुनियादी अभिवादन — एक नज़र में",
+      "headers": ["हिंदी अर्थ", "फ्रेंच", "उच्चारण"],
+      "rows": [
+        ["नमस्ते / शुभ प्रभात", "Bonjour", "बोंज़ूर"],
+        ["अलविदा", "Au revoir", "ओ रेवार्"],
+        ["धन्यवाद", "Merci", "मेर्सी"],
+        ["कृपया", "S'il vous plaît", "सिल्वू प्ले"],
+        ["हाँ", "Oui", "वी"],
+        ["नहीं", "Non", "नों"]
+      ]
+    },
+    {
+      "id": "b5",
+      "type": "dialogue",
+      "title": "पहली फ्रेंच बातचीत",
+      "speakers": ["आप", "फ्रेंच मित्र"],
+      "lines": [
+        { "speaker": 0, "text": "Bonjour!", "translation": "नमस्ते!" },
+        { "speaker": 1, "text": "Comment tu t'appelles?", "translation": "तुम्हारा नाम क्या है?" },
+        { "speaker": 0, "text": "Je m'appelle ___.", "translation": "मेरा नाम ___ है।" },
+        { "speaker": 1, "text": "Enchanté(e).", "translation": "आपसे मिलकर खुशी हुई।" }
+      ]
+    }
+  ]
+}

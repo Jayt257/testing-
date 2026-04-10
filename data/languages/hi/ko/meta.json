@@ -1,0 +1,40 @@
+{
+  "_comment": "Hindi → Korean language pair metadata",
+  "_status": "1 lesson implemented",
+  "pairId": "hi-ko",
+  "source": {
+    "id": "hi",
+    "name": "Hindi",
+    "flag": "🇮🇳"
+  },
+  "target": {
+    "id": "ko",
+    "name": "Korean",
+    "flag": "🇰🇷"
+  },
+  "status": "active",
+  "months": [
+    {
+      "month": 1,
+      "title": "Foundation",
+      "description": "Learn Korean basics from Hindi.",
+      "status": "not-started",
+      "weeks": [
+        {
+          "week": 1,
+          "globalWeek": 1,
+          "title": "Basics & Greetings",
+          "activities": [
+            {
+              "id": 1,
+              "type": "lesson",
+              "file": "month-1/week-1-lesson.json",
+              "xp": 30
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_howToCreate": "See /data/README.md for instructions on creating hi-ko content."
+}

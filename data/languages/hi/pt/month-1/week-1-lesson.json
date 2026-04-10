@@ -1,0 +1,57 @@
+{
+  "_comment": "Hindi → Portuguese | Month 1 Week 1 | Lesson — Basics & Greetings",
+  "id": 1,
+  "type": "lesson",
+  "title": "पुर्तगाली का परिचय और बुनियादी अभिवादन",
+  "description": "पुर्तगाली (Portuguese) भाषा सीखें और बुनियादी अभिवादन के साथ अपनी यात्रा शुरू करें।",
+  "duration": "25 min",
+  "xp": 30,
+  "week": 1,
+  "month": 1,
+  "langPair": "hi-pt",
+  "tags": ["greetings", "beginner"],
+  "blocks": [
+    {
+      "id": "b1",
+      "type": "text",
+      "title": "पुर्तगाली में आपका स्वागत है! Bem-vindos!",
+      "body": "पुर्तगाली एक बहुत ही संगीतमय भाषा है जो ब्राज़ील और पुर्तगाल में बोली जाती है। आइए बुनियादी शब्दों से शुरुआत करें।"
+    },
+    {
+      "id": "b2",
+      "type": "keypoints",
+      "title": "इस सप्ताह आप क्या सीखेंगे",
+      "points": [
+        "बुनियादी अभिवादन: Olá, Obrigado, Desculpe",
+        "पुर्तगाली में अपना नाम बताना"
+      ]
+    },
+    {
+      "id": "b4",
+      "type": "comparison_table",
+      "title": "बुनियादी अभिवादन — एक नज़र में",
+      "headers": ["हिंदी अर्थ", "पुर्तगाली", "उच्चारण"],
+      "rows": [
+        ["नमस्ते", "Olá", "ओला"],
+        ["शुभ प्रभात", "Bom dia", "बोम दिया"],
+        ["अलविदा", "Tchau", "चाऊ"],
+        ["धन्यवाद", "Obrigado/Obrigada", "ओब्रिगादो (पुरुष) / ओब्रिगादा (स्त्री)"],
+        ["माफ़ कीजिए", "Desculpe", "देस्कुल्पी"],
+        ["हाँ", "Sim", "सिम"],
+        ["नहीं", "Não", "नाउँ"]
+      ]
+    },
+    {
+      "id": "b5",
+      "type": "dialogue",
+      "title": "पहली पुर्तगाली बातचीत",
+      "speakers": ["आप", "ब्राज़ीलियाई मित्र"],
+      "lines": [
+        { "speaker": 0, "text": "Olá!", "translation": "नमस्ते!" },
+        { "speaker": 1, "text": "Qual é o seu nome?", "translation": "तुम्हारा नाम क्या है?" },
+        { "speaker": 0, "text": "Meu nome é ___.", "translation": "मेरा नाम ___ है।" },
+        { "speaker": 1, "text": "Muito prazer.", "translation": "आपसे मिलकर खुशी हुई।" }
+      ]
+    }
+  ]
+}
