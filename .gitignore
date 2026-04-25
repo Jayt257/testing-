@@ -31,3 +31,8 @@ backend/venv/
 backend/env/
 .pytest_cache/
 .env
+
+
+#global 
+make_56_commits.ps1
+implementation_plan.md
