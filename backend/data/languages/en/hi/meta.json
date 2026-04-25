@@ -1,0 +1,1040 @@
+{
+  "_comment": "Hindi → Japanese language pair — 3 months × 6 blocks × 8 activities = 144 activities",
+  "_version": "4.0",
+  "pairId": "en-hi",
+  "source": {
+    "id": "hi",
+    "name": "Hindi",
+    "flag": "🇮🇳"
+  },
+  "target": {
+    "id": "ja",
+    "name": "Japanese",
+    "native": "日本語",
+    "flag": "🇯🇵"
+  },
+  "totalMonths": 3,
+  "status": "active",
+  "lastUpdated": "2026-04",
+  "months": [
+    {
+      "month": 1,
+      "title": "Understand the Language",
+      "description": "Get comfortable with sound, script, and survival words",
+      "targetLevel": "A1",
+      "blocks": [
+        {
+          "block": 1,
+          "blockCode": "M1B1",
+          "title": "Orientation",
+          "activities": [
+            {
+              "id": 1,
+              "type": "lesson",
+              "file": "month_1/block_1/M1B1_lesson.json",
+              "xp": 50
+            },
+            {
+              "id": 2,
+              "type": "pronunciation",
+              "file": "month_1/block_1/M1B1_pronunciation.json",
+              "xp": 50
+            },
+            {
+              "id": 3,
+              "type": "reading",
+              "file": "month_1/block_1/M1B1_reading.json",
+              "xp": 50
+            },
+            {
+              "id": 4,
+              "type": "writing",
+              "file": "month_1/block_1/M1B1_writing.json",
+              "xp": 50
+            },
+            {
+              "id": 5,
+              "type": "listening",
+              "file": "month_1/block_1/M1B1_listening.json",
+              "xp": 50
+            },
+            {
+              "id": 6,
+              "type": "vocabulary",
+              "file": "month_1/block_1/M1B1_vocabulary.json",
+              "xp": 50
+            },
+            {
+              "id": 7,
+              "type": "speaking",
+              "file": "month_1/block_1/M1B1_speaking.json",
+              "xp": 50
+            },
+            {
+              "id": 8,
+              "type": "test",
+              "file": "month_1/block_1/M1B1_test.json",
+              "xp": 100
+            }
+          ]
+        },
+        {
+          "block": 2,
+          "blockCode": "M1B2",
+          "title": "Sounds and Script",
+          "activities": [
+            {
+              "id": 9,
+              "type": "lesson",
+              "file": "month_1/block_2/M1B2_lesson.json",
+              "xp": 50
+            },
+            {
+              "id": 10,
+              "type": "pronunciation",
+              "file": "month_1/block_2/M1B2_pronunciation.json",
+              "xp": 50
+            },
+            {
+              "id": 11,
+              "type": "reading",
+              "file": "month_1/block_2/M1B2_reading.json",
+              "xp": 50
+            },
+            {
+              "id": 12,
+              "type": "writing",
+              "file": "month_1/block_2/M1B2_writing.json",
+              "xp": 50
+            },
+            {
+              "id": 13,
+              "type": "listening",
+              "file": "month_1/block_2/M1B2_listening.json",
+              "xp": 50
+            },
+            {
+              "id": 14,
+              "type": "vocabulary",
+              "file": "month_1/block_2/M1B2_vocabulary.json",
+              "xp": 50
+            },
+            {
+              "id": 15,
+              "type": "speaking",
+              "file": "month_1/block_2/M1B2_speaking.json",
+              "xp": 50
+            },
+            {
+              "id": 16,
+              "type": "test",
+              "file": "month_1/block_2/M1B2_test.json",
+              "xp": 100
+            }
+          ]
+        },
+        {
+          "block": 3,
+          "blockCode": "M1B3",
+          "title": "Core Survival Words",
+          "activities": [
+            {
+              "id": 17,
+              "type": "lesson",
+              "file": "month_1/block_3/M1B3_lesson.json",
+              "xp": 50
+            },
+            {
+              "id": 18,
+              "type": "pronunciation",
+              "file": "month_1/block_3/M1B3_pronunciation.json",
+              "xp": 50
+            },
+            {
+              "id": 19,
+              "type": "reading",
+              "file": "month_1/block_3/M1B3_reading.json",
+              "xp": 50
+            },
+            {
+              "id": 20,
+              "type": "writing",
+              "file": "month_1/block_3/M1B3_writing.json",
+              "xp": 50
+            },
+            {
+              "id": 21,
+              "type": "listening",
+              "file": "month_1/block_3/M1B3_listening.json",
+              "xp": 50
+            },
+            {
+              "id": 22,
+              "type": "vocabulary",
+              "file": "month_1/block_3/M1B3_vocabulary.json",
+              "xp": 50
+            },
+            {
+              "id": 23,
+              "type": "speaking",
+              "file": "month_1/block_3/M1B3_speaking.json",
+              "xp": 50
+            },
+            {
+              "id": 24,
+              "type": "test",
+              "file": "month_1/block_3/M1B3_test.json",
+              "xp": 100
+            }
+          ]
+        },
+        {
+          "block": 4,
+          "blockCode": "M1B4",
+          "title": "First Communication",
+          "activities": [
+            {
+              "id": 25,
+              "type": "lesson",
+              "file": "month_1/block_4/M1B4_lesson.json",
+              "xp": 50
+            },
+            {
+              "id": 26,
+              "type": "pronunciation",
+              "file": "month_1/block_4/M1B4_pronunciation.json",
+              "xp": 50
+            },
+            {
+              "id": 27,
+              "type": "reading",
+              "file": "month_1/block_4/M1B4_reading.json",
+              "xp": 50
+            },
+            {
+              "id": 28,
+              "type": "writing",
+              "file": "month_1/block_4/M1B4_writing.json",
+              "xp": 50
+            },
+            {
+              "id": 29,
+              "type": "listening",
+              "file": "month_1/block_4/M1B4_listening.json",
+              "xp": 50
+            },
+            {
+              "id": 30,
+              "type": "vocabulary",
+              "file": "month_1/block_4/M1B4_vocabulary.json",
+              "xp": 50
+            },
+            {
+              "id": 31,
+              "type": "speaking",
+              "file": "month_1/block_4/M1B4_speaking.json",
+              "xp": 50
+            },
+            {
+              "id": 32,
+              "type": "test",
+              "file": "month_1/block_4/M1B4_test.json",
+              "xp": 100
+            }
+          ]
+        },
+        {
+          "block": 5,
+          "blockCode": "M1B5",
+          "title": "Culture Basics",
+          "activities": [
+            {
+              "id": 33,
+              "type": "lesson",
+              "file": "month_1/block_5/M1B5_lesson.json",
+              "xp": 50
+            },
+            {
+              "id": 34,
+              "type": "pronunciation",
+              "file": "month_1/block_5/M1B5_pronunciation.json",
+              "xp": 50
+            },
+            {
+              "id": 35,
+              "type": "reading",
+              "file": "month_1/block_5/M1B5_reading.json",
+              "xp": 50
+            },
+            {
+              "id": 36,
+              "type": "writing",
+              "file": "month_1/block_5/M1B5_writing.json",
+              "xp": 50
+            },
+            {
+              "id": 37,
+              "type": "listening",
+              "file": "month_1/block_5/M1B5_listening.json",
+              "xp": 50
+            },
+            {
+              "id": 38,
+              "type": "vocabulary",
+              "file": "month_1/block_5/M1B5_vocabulary.json",
+              "xp": 50
+            },
+            {
+              "id": 39,
+              "type": "speaking",
+              "file": "month_1/block_5/M1B5_speaking.json",
+              "xp": 50
+            },
+            {
+              "id": 40,
+              "type": "test",
+              "file": "month_1/block_5/M1B5_test.json",
+              "xp": 100
+            }
+          ]
+        },
+        {
+          "block": 6,
+          "blockCode": "M1B6",
+          "title": "Review and Confidence Check",
+          "activities": [
+            {
+              "id": 41,
+              "type": "lesson",
+              "file": "month_1/block_6/M1B6_lesson.json",
+              "xp": 50
+            },
+            {
+              "id": 42,
+              "type": "pronunciation",
+              "file": "month_1/block_6/M1B6_pronunciation.json",
+              "xp": 50
+            },
+            {
+              "id": 43,
+              "type": "reading",
+              "file": "month_1/block_6/M1B6_reading.json",
+              "xp": 50
+            },
+            {
+              "id": 44,
+              "type": "writing",
+              "file": "month_1/block_6/M1B6_writing.json",
+              "xp": 50
+            },
+            {
+              "id": 45,
+              "type": "listening",
+              "file": "month_1/block_6/M1B6_listening.json",
+              "xp": 50
+            },
+            {
+              "id": 46,
+              "type": "vocabulary",
+              "file": "month_1/block_6/M1B6_vocabulary.json",
+              "xp": 50
+            },
+            {
+              "id": 47,
+              "type": "speaking",
+              "file": "month_1/block_6/M1B6_speaking.json",
+              "xp": 50
+            },
+            {
+              "id": 48,
+              "type": "test",
+              "file": "month_1/block_6/M1B6_test.json",
+              "xp": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "month": 2,
+      "title": "Use the Language",
+      "description": "Form sentences and communicate in simple daily situations",
+      "targetLevel": "A1+",
+      "blocks": [
+        {
+          "block": 1,
+          "blockCode": "M2B1",
+          "title": "Sentence Building",
+          "activities": [
+            {
+              "id": 145,
+              "type": "lesson",
+              "file": "month_2/block_1/M2B1_lesson.json",
+              "xp": 75
+            },
+            {
+              "id": 146,
+              "type": "pronunciation",
+              "file": "month_2/block_1/M2B1_pronunciation.json",
+              "xp": 75
+            },
+            {
+              "id": 147,
+              "type": "reading",
+              "file": "month_2/block_1/M2B1_reading.json",
+              "xp": 75
+            },
+            {
+              "id": 148,
+              "type": "writing",
+              "file": "month_2/block_1/M2B1_writing.json",
+              "xp": 75
+            },
+            {
+              "id": 149,
+              "type": "listening",
+              "file": "month_2/block_1/M2B1_listening.json",
+              "xp": 75
+            },
+            {
+              "id": 150,
+              "type": "vocabulary",
+              "file": "month_2/block_1/M2B1_vocabulary.json",
+              "xp": 75
+            },
+            {
+              "id": 151,
+              "type": "speaking",
+              "file": "month_2/block_1/M2B1_speaking.json",
+              "xp": 75
+            },
+            {
+              "id": 152,
+              "type": "test",
+              "file": "month_2/block_1/M2B1_test.json",
+              "xp": 150
+            }
+          ]
+        },
+        {
+          "block": 2,
+          "blockCode": "M2B2",
+          "title": "Daily Vocabulary",
+          "activities": [
+            {
+              "id": 153,
+              "type": "lesson",
+              "file": "month_2/block_2/M2B2_lesson.json",
+              "xp": 75
+            },
+            {
+              "id": 154,
+              "type": "pronunciation",
+              "file": "month_2/block_2/M2B2_pronunciation.json",
+              "xp": 75
+            },
+            {
+              "id": 155,
+              "type": "reading",
+              "file": "month_2/block_2/M2B2_reading.json",
+              "xp": 75
+            },
+            {
+              "id": 156,
+              "type": "writing",
+              "file": "month_2/block_2/M2B2_writing.json",
+              "xp": 75
+            },
+            {
+              "id": 157,
+              "type": "listening",
+              "file": "month_2/block_2/M2B2_listening.json",
+              "xp": 75
+            },
+            {
+              "id": 158,
+              "type": "vocabulary",
+              "file": "month_2/block_2/M2B2_vocabulary.json",
+              "xp": 75
+            },
+            {
+              "id": 159,
+              "type": "speaking",
+              "file": "month_2/block_2/M2B2_speaking.json",
+              "xp": 75
+            },
+            {
+              "id": 160,
+              "type": "test",
+              "file": "month_2/block_2/M2B2_test.json",
+              "xp": 150
+            }
+          ]
+        },
+        {
+          "block": 3,
+          "blockCode": "M2B3",
+          "title": "Listening Practice",
+          "activities": [
+            {
+              "id": 161,
+              "type": "lesson",
+              "file": "month_2/block_3/M2B3_lesson.json",
+              "xp": 75
+            },
+            {
+              "id": 162,
+              "type": "pronunciation",
+              "file": "month_2/block_3/M2B3_pronunciation.json",
+              "xp": 75
+            },
+            {
+              "id": 163,
+              "type": "reading",
+              "file": "month_2/block_3/M2B3_reading.json",
+              "xp": 75
+            },
+            {
+              "id": 164,
+              "type": "writing",
+              "file": "month_2/block_3/M2B3_writing.json",
+              "xp": 75
+            },
+            {
+              "id": 165,
+              "type": "listening",
+              "file": "month_2/block_3/M2B3_listening.json",
+              "xp": 75
+            },
+            {
+              "id": 166,
+              "type": "vocabulary",
+              "file": "month_2/block_3/M2B3_vocabulary.json",
+              "xp": 75
+            },
+            {
+              "id": 167,
+              "type": "speaking",
+              "file": "month_2/block_3/M2B3_speaking.json",
+              "xp": 75
+            },
+            {
+              "id": 168,
+              "type": "test",
+              "file": "month_2/block_3/M2B3_test.json",
+              "xp": 150
+            }
+          ]
+        },
+        {
+          "block": 4,
+          "blockCode": "M2B4",
+          "title": "Reading Practice",
+          "activities": [
+            {
+              "id": 169,
+              "type": "lesson",
+              "file": "month_2/block_4/M2B4_lesson.json",
+              "xp": 75
+            },
+            {
+              "id": 170,
+              "type": "pronunciation",
+              "file": "month_2/block_4/M2B4_pronunciation.json",
+              "xp": 75
+            },
+            {
+              "id": 171,
+              "type": "reading",
+              "file": "month_2/block_4/M2B4_reading.json",
+              "xp": 75
+            },
+            {
+              "id": 172,
+              "type": "writing",
+              "file": "month_2/block_4/M2B4_writing.json",
+              "xp": 75
+            },
+            {
+              "id": 173,
+              "type": "listening",
+              "file": "month_2/block_4/M2B4_listening.json",
+              "xp": 75
+            },
+            {
+              "id": 174,
+              "type": "vocabulary",
+              "file": "month_2/block_4/M2B4_vocabulary.json",
+              "xp": 75
+            },
+            {
+              "id": 175,
+              "type": "speaking",
+              "file": "month_2/block_4/M2B4_speaking.json",
+              "xp": 75
+            },
+            {
+              "id": 176,
+              "type": "test",
+              "file": "month_2/block_4/M2B4_test.json",
+              "xp": 150
+            }
+          ]
+        },
+        {
+          "block": 5,
+          "blockCode": "M2B5",
+          "title": "Speaking Practice",
+          "activities": [
+            {
+              "id": 177,
+              "type": "lesson",
+              "file": "month_2/block_5/M2B5_lesson.json",
+              "xp": 75
+            },
+            {
+              "id": 178,
+              "type": "pronunciation",
+              "file": "month_2/block_5/M2B5_pronunciation.json",
+              "xp": 75
+            },
+            {
+              "id": 179,
+              "type": "reading",
+              "file": "month_2/block_5/M2B5_reading.json",
+              "xp": 75
+            },
+            {
+              "id": 180,
+              "type": "writing",
+              "file": "month_2/block_5/M2B5_writing.json",
+              "xp": 75
+            },
+            {
+              "id": 181,
+              "type": "listening",
+              "file": "month_2/block_5/M2B5_listening.json",
+              "xp": 75
+            },
+            {
+              "id": 182,
+              "type": "vocabulary",
+              "file": "month_2/block_5/M2B5_vocabulary.json",
+              "xp": 75
+            },
+            {
+              "id": 183,
+              "type": "speaking",
+              "file": "month_2/block_5/M2B5_speaking.json",
+              "xp": 75
+            },
+            {
+              "id": 184,
+              "type": "test",
+              "file": "month_2/block_5/M2B5_test.json",
+              "xp": 150
+            }
+          ]
+        },
+        {
+          "block": 6,
+          "blockCode": "M2B6",
+          "title": "Culture in Context",
+          "activities": [
+            {
+              "id": 185,
+              "type": "lesson",
+              "file": "month_2/block_6/M2B6_lesson.json",
+              "xp": 75
+            },
+            {
+              "id": 186,
+              "type": "pronunciation",
+              "file": "month_2/block_6/M2B6_pronunciation.json",
+              "xp": 75
+            },
+            {
+              "id": 187,
+              "type": "reading",
+              "file": "month_2/block_6/M2B6_reading.json",
+              "xp": 75
+            },
+            {
+              "id": 188,
+              "type": "writing",
+              "file": "month_2/block_6/M2B6_writing.json",
+              "xp": 75
+            },
+            {
+              "id": 189,
+              "type": "listening",
+              "file": "month_2/block_6/M2B6_listening.json",
+              "xp": 75
+            },
+            {
+              "id": 190,
+              "type": "vocabulary",
+              "file": "month_2/block_6/M2B6_vocabulary.json",
+              "xp": 75
+            },
+            {
+              "id": 191,
+              "type": "speaking",
+              "file": "month_2/block_6/M2B6_speaking.json",
+              "xp": 75
+            },
+            {
+              "id": 192,
+              "type": "test",
+              "file": "month_2/block_6/M2B6_test.json",
+              "xp": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "month": 3,
+      "title": "Apply the Language",
+      "description": "Have short real-world conversations with confidence",
+      "targetLevel": "A2",
+      "blocks": [
+        {
+          "block": 1,
+          "blockCode": "M3B1",
+          "title": "Travel and Survival Language",
+          "activities": [
+            {
+              "id": 97,
+              "type": "lesson",
+              "file": "month_3/block_1/M3B1_lesson.json",
+              "xp": 75
+            },
+            {
+              "id": 98,
+              "type": "pronunciation",
+              "file": "month_3/block_1/M3B1_pronunciation.json",
+              "xp": 75
+            },
+            {
+              "id": 99,
+              "type": "reading",
+              "file": "month_3/block_1/M3B1_reading.json",
+              "xp": 75
+            },
+            {
+              "id": 100,
+              "type": "writing",
+              "file": "month_3/block_1/M3B1_writing.json",
+              "xp": 75
+            },
+            {
+              "id": 101,
+              "type": "listening",
+              "file": "month_3/block_1/M3B1_listening.json",
+              "xp": 75
+            },
+            {
+              "id": 102,
+              "type": "vocabulary",
+              "file": "month_3/block_1/M3B1_vocabulary.json",
+              "xp": 75
+            },
+            {
+              "id": 103,
+              "type": "speaking",
+              "file": "month_3/block_1/M3B1_speaking.json",
+              "xp": 75
+            },
+            {
+              "id": 104,
+              "type": "test",
+              "file": "month_3/block_1/M3B1_test.json",
+              "xp": 150
+            }
+          ]
+        },
+        {
+          "block": 2,
+          "blockCode": "M3B2",
+          "title": "Polite Communication",
+          "activities": [
+            {
+              "id": 105,
+              "type": "lesson",
+              "file": "month_3/block_2/M3B2_lesson.json",
+              "xp": 75
+            },
+            {
+              "id": 106,
+              "type": "pronunciation",
+              "file": "month_3/block_2/M3B2_pronunciation.json",
+              "xp": 75
+            },
+            {
+              "id": 107,
+              "type": "reading",
+              "file": "month_3/block_2/M3B2_reading.json",
+              "xp": 75
+            },
+            {
+              "id": 108,
+              "type": "writing",
+              "file": "month_3/block_2/M3B2_writing.json",
+              "xp": 75
+            },
+            {
+              "id": 109,
+              "type": "listening",
+              "file": "month_3/block_2/M3B2_listening.json",
+              "xp": 75
+            },
+            {
+              "id": 110,
+              "type": "vocabulary",
+              "file": "month_3/block_2/M3B2_vocabulary.json",
+              "xp": 75
+            },
+            {
+              "id": 111,
+              "type": "speaking",
+              "file": "month_3/block_2/M3B2_speaking.json",
+              "xp": 75
+            },
+            {
+              "id": 112,
+              "type": "test",
+              "file": "month_3/block_2/M3B2_test.json",
+              "xp": 150
+            }
+          ]
+        },
+        {
+          "block": 3,
+          "blockCode": "M3B3",
+          "title": "Real-Life Scenarios",
+          "activities": [
+            {
+              "id": 113,
+              "type": "lesson",
+              "file": "month_3/block_3/M3B3_lesson.json",
+              "xp": 75
+            },
+            {
+              "id": 114,
+              "type": "pronunciation",
+              "file": "month_3/block_3/M3B3_pronunciation.json",
+              "xp": 75
+            },
+            {
+              "id": 115,
+              "type": "reading",
+              "file": "month_3/block_3/M3B3_reading.json",
+              "xp": 75
+            },
+            {
+              "id": 116,
+              "type": "writing",
+              "file": "month_3/block_3/M3B3_writing.json",
+              "xp": 75
+            },
+            {
+              "id": 117,
+              "type": "listening",
+              "file": "month_3/block_3/M3B3_listening.json",
+              "xp": 75
+            },
+            {
+              "id": 118,
+              "type": "vocabulary",
+              "file": "month_3/block_3/M3B3_vocabulary.json",
+              "xp": 75
+            },
+            {
+              "id": 119,
+              "type": "speaking",
+              "file": "month_3/block_3/M3B3_speaking.json",
+              "xp": 75
+            },
+            {
+              "id": 120,
+              "type": "test",
+              "file": "month_3/block_3/M3B3_test.json",
+              "xp": 150
+            }
+          ]
+        },
+        {
+          "block": 4,
+          "blockCode": "M3B4",
+          "title": "Mixed Skill Practice",
+          "activities": [
+            {
+              "id": 121,
+              "type": "lesson",
+              "file": "month_3/block_4/M3B4_lesson.json",
+              "xp": 75
+            },
+            {
+              "id": 122,
+              "type": "pronunciation",
+              "file": "month_3/block_4/M3B4_pronunciation.json",
+              "xp": 75
+            },
+            {
+              "id": 123,
+              "type": "reading",
+              "file": "month_3/block_4/M3B4_reading.json",
+              "xp": 75
+            },
+            {
+              "id": 124,
+              "type": "writing",
+              "file": "month_3/block_4/M3B4_writing.json",
+              "xp": 75
+            },
+            {
+              "id": 125,
+              "type": "listening",
+              "file": "month_3/block_4/M3B4_listening.json",
+              "xp": 75
+            },
+            {
+              "id": 126,
+              "type": "vocabulary",
+              "file": "month_3/block_4/M3B4_vocabulary.json",
+              "xp": 75
+            },
+            {
+              "id": 127,
+              "type": "speaking",
+              "file": "month_3/block_4/M3B4_speaking.json",
+              "xp": 75
+            },
+            {
+              "id": 128,
+              "type": "test",
+              "file": "month_3/block_4/M3B4_test.json",
+              "xp": 150
+            }
+          ]
+        },
+        {
+          "block": 5,
+          "blockCode": "M3B5",
+          "title": "Review and Correction",
+          "activities": [
+            {
+              "id": 129,
+              "type": "lesson",
+              "file": "month_3/block_5/M3B5_lesson.json",
+              "xp": 75
+            },
+            {
+              "id": 130,
+              "type": "pronunciation",
+              "file": "month_3/block_5/M3B5_pronunciation.json",
+              "xp": 75
+            },
+            {
+              "id": 131,
+              "type": "reading",
+              "file": "month_3/block_5/M3B5_reading.json",
+              "xp": 75
+            },
+            {
+              "id": 132,
+              "type": "writing",
+              "file": "month_3/block_5/M3B5_writing.json",
+              "xp": 75
+            },
+            {
+              "id": 133,
+              "type": "listening",
+              "file": "month_3/block_5/M3B5_listening.json",
+              "xp": 75
+            },
+            {
+              "id": 134,
+              "type": "vocabulary",
+              "file": "month_3/block_5/M3B5_vocabulary.json",
+              "xp": 75
+            },
+            {
+              "id": 135,
+              "type": "speaking",
+              "file": "month_3/block_5/M3B5_speaking.json",
+              "xp": 75
+            },
+            {
+              "id": 136,
+              "type": "test",
+              "file": "month_3/block_5/M3B5_test.json",
+              "xp": 150
+            }
+          ]
+        },
+        {
+          "block": 6,
+          "blockCode": "M3B6",
+          "title": "Final Test",
+          "activities": [
+            {
+              "id": 137,
+              "type": "lesson",
+              "file": "month_3/block_6/M3B6_lesson.json",
+              "xp": 75
+            },
+            {
+              "id": 138,
+              "type": "pronunciation",
+              "file": "month_3/block_6/M3B6_pronunciation.json",
+              "xp": 75
+            },
+            {
+              "id": 139,
+              "type": "reading",
+              "file": "month_3/block_6/M3B6_reading.json",
+              "xp": 75
+            },
+            {
+              "id": 140,
+              "type": "writing",
+              "file": "month_3/block_6/M3B6_writing.json",
+              "xp": 75
+            },
+            {
+              "id": 141,
+              "type": "listening",
+              "file": "month_3/block_6/M3B6_listening.json",
+              "xp": 75
+            },
+            {
+              "id": 142,
+              "type": "vocabulary",
+              "file": "month_3/block_6/M3B6_vocabulary.json",
+              "xp": 75
+            },
+            {
+              "id": 143,
+              "type": "speaking",
+              "file": "month_3/block_6/M3B6_speaking.json",
+              "xp": 75
+            },
+            {
+              "id": 144,
+              "type": "test",
+              "file": "month_3/block_6/M3B6_test.json",
+              "xp": 150
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "id": "en-hi",
+  "sourceLanguage": "en",
+  "targetLanguage": "hi",
+  "sourceLanguageName": "English",
+  "targetLanguageName": "Hindi"
+}
